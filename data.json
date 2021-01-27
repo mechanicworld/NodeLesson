@@ -1,0 +1,15 @@
+{
+    "name": "WTMN Berlin",
+    "attendees": [
+        {
+            "name": "Armagan",
+            "age": 35,
+            "meetups": "WTMN Berlin"
+        },
+        {
+            "name": "Mert",
+            "age": 34,
+            "meetups": "WTMN Berlin"
+        }
+    ]
+}
