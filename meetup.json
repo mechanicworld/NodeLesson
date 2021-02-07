@@ -10,6 +10,11 @@
             "name": "Mert",
             "age": 34,
             "meetups": "WTMN Berlin"
+        },
+        {
+            "name": "Omur",
+            "age": 30,
+            "meetups": "WTMN Berlin"
         }
     ]
 }
