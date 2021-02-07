@@ -8,8 +8,8 @@ module.exports =  class Meetup {
         this.attendees.forEach(printName)
     }
 
-    static create(){
-        
+    static create({name, attendees}){
+        return new Meetup(name, attendees)
     }
 }
 
